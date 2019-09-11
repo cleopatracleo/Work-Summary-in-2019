@@ -1,0 +1,8 @@
+##Programing
+Django tutorial
+https://www.w3cschool.cn/django/
+
+##Marketing
+ROI tutorial
+http://www.woshipm.com/marketing/1070364.html
+http://www.woshipm.com/operate/453490.html
